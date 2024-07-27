@@ -16,6 +16,7 @@ openai.api_key = st.secrets["OPENAI_API_KEY"]
 hide_streamlit_style = """
 <style>
 #MainMenu {visibility: hidden;}
+#GithubIcon {visibility:hidden;}
 footer {visibility: hidden;}
 </style>
 
