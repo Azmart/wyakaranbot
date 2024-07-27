@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    user1:
+      name: Prayogkarta
+      password: '$2b$12$yMC2p2NBarB84vb0A3xmn.USQCLSA8qf9yRDiuSn4kn6PXWQ9lyDG'
+    user2:
+      name: Azmart02
+      password: '$2b$12$Eew0ytSgb.3MxAI1x2izlu0AoTaEdEb97p0BVjcDGGPQR6OChUvgq'
+
+cookie:
+  name: my_cookie_name
+  key: my_cookie_key
+  expiry_days: 30
